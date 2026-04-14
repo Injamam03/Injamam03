@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Injamam Ul Hoque Sifat</h1>
+<h1 align="center">Hi, I'm Injamam Ul Hoque Sifat</h1>
 <h3 align="center">A Passionate Flutter Mobile app Developer with Flutter from Bangladesh 🇧🇩</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on **[delivery-app](https://github.com/Injamam03/flutter_getx_tamplate)** — Food and instrument parcel delivery app
+- 🔭 I'm currently working on **[flutter_getx_tamplate](https://github.com/Injamam03/flutter_getx_tamplate)** — Food and instrument parcel delivery app
 - 🌱 I'm currently learning **Flutter, Dart & Python**
 - 💬 Ask me about **Flutter, Dart, Python, Android App Development**
 - 📫 Reach me at **injamamulh544@gmail.com**
