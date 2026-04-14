@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on **[delivery-app](https://github.com/Injamam03/delivery-app)** — Food and instrument parcel delivery app
+- 🔭 I'm currently working on **[delivery-app](https://github.com/Injamam03/flutter_getx_tamplate)** — Food and instrument parcel delivery app
 - 🌱 I'm currently learning **Flutter, Dart & Python**
 - 💬 Ask me about **Flutter, Dart, Python, Android App Development**
 - 📫 Reach me at **injamamulh544@gmail.com**
@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [delivery-app](https://github.com/Injamam03/delivery-app) | Food and instrument parcel delivery app | Flutter, Dart |
+| [delivery-app](https://github.com/Injamam03/flutter_getx_tamplate) | Food and instrument parcel delivery app | Flutter, Dart |
 | [flutter_getx_template](https://github.com/Injamam03/flutter_getx_tamplate) | Flutter GetX starter template | Flutter, Dart |
 
 ---
