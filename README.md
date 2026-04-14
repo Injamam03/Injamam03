@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Injamam Ul Hoque Sifat</h1>
-<h3 align="center">A Passionate Flutter & Python Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A Passionate Flutter Mobile app Developer with Flutter from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
